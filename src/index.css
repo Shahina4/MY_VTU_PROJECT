@@ -1,0 +1,14 @@
+.navbar-style{
+    background-color: rgb(230, 205, 158);
+}
+.logo-img-style{
+    height: 50px;
+    width: 50px;
+}
+.logo-text-style{
+    margin: -30px 0px 0px 60px; 
+    padding-bottom: 10px;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
